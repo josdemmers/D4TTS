@@ -6,6 +6,7 @@ Tolk supports multiple screenreaders, D4 TTS uses the System Access API (SAAPI) 
 <div align="center">
 <img alt="" title="D4 TTS Login" src="./readme/readme-001.png" width="47%"/>
 <img alt="" title="D4 TTS Gameplay" src="./readme/readme-002.png" width="47%"/>
+<img alt="" title="D4 TTS Items" src="./readme/readme-003.png" width="47%"/>
 </div>
 
 ## Usage
